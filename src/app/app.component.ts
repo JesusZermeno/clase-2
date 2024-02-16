@@ -10,7 +10,7 @@ import { ContadorComponent } from './contador/contador.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  nombre = 'Jesús Javier Zermeño Rodríguez';
-  matricula = '#20997';
+  nombre = 'Lizette Chapa Mendoza';
+  matricula = '#20976';
   grupo = '5°A';
 }
